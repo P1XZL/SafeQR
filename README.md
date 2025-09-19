@@ -83,20 +83,6 @@ npm install qr-code-styling
 
 ---
 
-## Publishing to Firefox Add-ons (AMO)
-
-1. Zip your extension folder (manifest at root).
-2. Go to [AMO Developer Hub](https://addons.mozilla.org/developers/).
-3. Submit the zip file and fill out metadata:
-
-   * Name: SafeQR
-   * Description: Clean URLs and generate stylish QR codes.
-   * Category: Utilities / Productivity
-   * Icons: use those from `icons/` folder.
-4. After automated and manual review, your extension will be published.
-
----
-
 ## Credits
 
 SafeQR was inspired by and builds upon the work of:
@@ -105,3 +91,4 @@ SafeQR was inspired by and builds upon the work of:
 * **[Offline QR Code](https://github.com/rugk/offline-qr-code)** — for offline QR code generation techniques.
 * **[QR Code Styling](https://github.com/kozakdenys/qr-code-styling)** — for creating stylish, customizable QR codes.
 * The majority of the coding was done by **ChatGPT** and from the above open-source repositories, while the SafeQR creator provided design input and conceptual ideas.
+
